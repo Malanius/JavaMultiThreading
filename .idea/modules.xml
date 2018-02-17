@@ -16,7 +16,6 @@
       <module fileurl="file://$PROJECT_DIR$/12_Semaphores/12_Semaphores.iml" filepath="$PROJECT_DIR$/12_Semaphores/12_Semaphores.iml" />
       <module fileurl="file://$PROJECT_DIR$/13_CallableFuture/13_CallableFuture.iml" filepath="$PROJECT_DIR$/13_CallableFuture/13_CallableFuture.iml" />
       <module fileurl="file://$PROJECT_DIR$/14_InterruptingTreads/14_InterruptingTreads.iml" filepath="$PROJECT_DIR$/14_InterruptingTreads/14_InterruptingTreads.iml" />
-      <module fileurl="file://$PROJECT_DIR$/15_SwingMultiThread/15_SwingMultiThread.iml" filepath="$PROJECT_DIR$/15_SwingMultiThread/15_SwingMultiThread.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMultithreading.iml" filepath="$PROJECT_DIR$/JavaMultithreading.iml" />
     </modules>
   </component>

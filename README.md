@@ -6,9 +6,9 @@ Written along with the tutorials, in IntelliJ IDEA, sorted by lessons and with v
 **Note:** Course source code points to [this repository](https://github.com/Beerkay/JavaMultiThreading)  which has some more comments and JavaDocs.
 
 ## Course
-I've completed this course on udemy - https://www.udemy.com/java-multithreading
+I've completed this course on udemy, you gan get it too for free - https://www.udemy.com/java-multithreading/?couponCode=FREE
 
-## Content
+## Course content
 1. Starting Threads
 1. Volatile – Basic Thread Communication
 1. Synchronized
@@ -23,6 +23,7 @@ I've completed this course on udemy - https://www.udemy.com/java-multithreading
 1. Semaphores
 1. Callable and Future
 1. Interrupting Threads
+1. Swing multithreading - without code
 
 ## My completion certificate
 https://ude.my/UC-I3Q1B9VE
