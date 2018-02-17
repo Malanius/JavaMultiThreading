@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_StartingThreads/01_StartingThreads.iml" filepath="$PROJECT_DIR$/01_StartingThreads/01_StartingThreads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_BasicSynchronization/02_BasicSynchronization.iml" filepath="$PROJECT_DIR$/02_BasicSynchronization/02_BasicSynchronization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_SynchronizedKeyword/03_SynchronizedKeyword.iml" filepath="$PROJECT_DIR$/03_SynchronizedKeyword/03_SynchronizedKeyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_MultipleLocks/04_MultipleLocks.iml" filepath="$PROJECT_DIR$/04_MultipleLocks/04_MultipleLocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_ThreadPools/05_ThreadPools.iml" filepath="$PROJECT_DIR$/05_ThreadPools/05_ThreadPools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_CountdownLatches/06_CountdownLatches.iml" filepath="$PROJECT_DIR$/06_CountdownLatches/06_CountdownLatches.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_ProducerConsumer/07_ProducerConsumer.iml" filepath="$PROJECT_DIR$/07_ProducerConsumer/07_ProducerConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_WaitNotify/08_WaitNotify.iml" filepath="$PROJECT_DIR$/08_WaitNotify/08_WaitNotify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_LowLevelSync/09_LowLevelSync.iml" filepath="$PROJECT_DIR$/09_LowLevelSync/09_LowLevelSync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_ReentrantLock/10_ReentrantLock.iml" filepath="$PROJECT_DIR$/10_ReentrantLock/10_ReentrantLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Deadlock/11_Deadlock.iml" filepath="$PROJECT_DIR$/11_Deadlock/11_Deadlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_Semaphores/12_Semaphores.iml" filepath="$PROJECT_DIR$/12_Semaphores/12_Semaphores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_CallableFuture/13_CallableFuture.iml" filepath="$PROJECT_DIR$/13_CallableFuture/13_CallableFuture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_InterruptingTreads/14_InterruptingTreads.iml" filepath="$PROJECT_DIR$/14_InterruptingTreads/14_InterruptingTreads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_SwingMultiThread/15_SwingMultiThread.iml" filepath="$PROJECT_DIR$/15_SwingMultiThread/15_SwingMultiThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMultithreading.iml" filepath="$PROJECT_DIR$/JavaMultithreading.iml" />
+    </modules>
+  </component>
+</project>
